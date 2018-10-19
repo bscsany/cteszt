@@ -13,6 +13,7 @@ namespace konzolx
             Console.WriteLine("Juhéééé");
             Console.WriteLine("\nValami más");
             // ez egy megjegyzés
+            // másik sor ...
 
         }
         static void Main(string[] args)
