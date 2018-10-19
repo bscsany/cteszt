@@ -1,0 +1,7 @@
+D:\#repos\cteszt\konzolx\bin\Debug\konzolx.exe.config
+D:\#repos\cteszt\konzolx\bin\Debug\konzolx.exe
+D:\#repos\cteszt\konzolx\bin\Debug\konzolx.pdb
+D:\#repos\cteszt\konzolx\obj\Debug\konzolx.csprojAssemblyReference.cache
+D:\#repos\cteszt\konzolx\obj\Debug\konzolx.csproj.CoreCompileInputs.cache
+D:\#repos\cteszt\konzolx\obj\Debug\konzolx.exe
+D:\#repos\cteszt\konzolx\obj\Debug\konzolx.pdb
