@@ -1,0 +1,7 @@
+D:\#repos\cteszt\kx\bin\Debug\kx.exe.config
+D:\#repos\cteszt\kx\bin\Debug\kx.exe
+D:\#repos\cteszt\kx\bin\Debug\kx.pdb
+D:\#repos\cteszt\kx\obj\Debug\kx.csprojAssemblyReference.cache
+D:\#repos\cteszt\kx\obj\Debug\kx.csproj.CoreCompileInputs.cache
+D:\#repos\cteszt\kx\obj\Debug\kx.exe
+D:\#repos\cteszt\kx\obj\Debug\kx.pdb
