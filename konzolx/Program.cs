@@ -14,7 +14,7 @@ namespace konzolx
             Console.WriteLine("\nValami más");
             // ez egy megjegyzés
             // másik sor ...
-
+            //harmadik....
         }
         static void Main(string[] args)
         {
