@@ -11,6 +11,9 @@ namespace konzolx
         Program()
         {
             Console.WriteLine("Juhéééé");
+            Console.WriteLine("\nValami más");
+            // ez egy megjegyzés
+
         }
         static void Main(string[] args)
         {
